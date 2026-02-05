@@ -1,6 +1,4 @@
 venva/
 .env
-__pycache__/
-*.pkl
-vectorstore/db_faiss/index.faiss
-vectorstore/db_faiss/index.pkl
+
+
