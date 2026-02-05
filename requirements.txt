@@ -1,7 +1,7 @@
 # LangChain Core
 langchain
 langchain-core
-
+faiss-cpu
 # OpenAI Integration
 langchain-openai
 openai
