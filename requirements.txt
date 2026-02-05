@@ -1,20 +1,9 @@
-# LangChain Core
+streamlit
 langchain
 langchain-core
-faiss-cpu
-# OpenAI Integration
-langchain-openai
-openai
-
-# Hugging Face Integration
+langchain-community
 langchain-huggingface
-transformers
+faiss-cpu
+sentence-transformers
 huggingface-hub
-
-# Environment Variable Management
 python-dotenv
-
-# Machine Learning Utilities
-numpy
-scikit-learn
-streamlit
